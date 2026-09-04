@@ -75,6 +75,10 @@ The workflow runs whenever changes are pushed to the repository or when a pull r
 
 A successful green-build screenshot will be included below after the GitHub Actions workflow has completed successfully.
 
+### Successful GitHub Actions Build
+
+![Successful GitHub Actions Build](Screenshot%20GitHub%20green%20ticks.png)
+
 ## Video Demonstration
 
 The video demonstration explains the RaceDay Part 1 planning and database work, including the ERD, API Endpoint Plan, SQL Server database, repository structure, and GitHub Actions workflow.
