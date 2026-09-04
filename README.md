@@ -29,3 +29,17 @@ The following deliverables have been prepared:
 - SQL Server Database Script
 
 These documents are available in the `/docs` folder.
+
+## Repository Structure
+
+The repository is organised to keep the Part 1 deliverables clear and easy to inspect.
+
+```text
+RaceDay-Repository/
+├── docs/
+│   ├── RaceDay_ERD.pdf
+│   ├── RaceDay_API_Endpoint_Plan.pdf
+│   └── RaceDay_Database.sql
+├── .github/
+│   └── workflows/
+└── README.md
