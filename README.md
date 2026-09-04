@@ -89,3 +89,19 @@ The CI/CD workflow is located at:
 The workflow automatically runs when changes are pushed to the repository or when a pull request is created.
 
 It validates that all required Part 1 files are present and that the repository has the correct structure.
+
+## Database Verification
+
+The SQL Server database was tested in SQL Server Management Studio (SSMS).
+
+The database contains the following sample records:
+
+- 4 users
+- 3 events
+- 6 event categories
+- 4 enrolments
+- 2 results
+- 3 routes
+- 3 weather records
+
+These records were verified using SELECT queries after the database setup.
