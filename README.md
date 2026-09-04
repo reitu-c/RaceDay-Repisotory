@@ -75,6 +75,11 @@ The workflow runs whenever changes are pushed to the repository or when a pull r
 
 A successful green-build screenshot will be included below after the GitHub Actions workflow has completed successfully.
 
+## Video Demonstration
+
+The video demonstration explains the RaceDay Part 1 planning and database work, including the ERD, API Endpoint Plan, SQL Server database, repository structure, and GitHub Actions workflow.
+
+YouTube Link: **To be added**
 ### GitHub Actions Workflow
 
 The CI/CD workflow is located at:
