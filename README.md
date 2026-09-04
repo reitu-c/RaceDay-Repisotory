@@ -17,3 +17,15 @@ The Organiser is responsible for managing race events on the RaceDay platform. O
 ### Participant
 
 The Participant uses RaceDay to browse available events, view event categories, enrol in events, view their enrolments, and access their race results.
+
+## Part 1
+
+Part 1 establishes the planning and database foundation for the RaceDay Event Management System.
+
+The following deliverables have been prepared:
+
+- ERD
+- API Endpoint Plan
+- SQL Server Database Script
+
+These documents are available in the `/docs` folder.
