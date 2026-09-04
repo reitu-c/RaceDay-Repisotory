@@ -75,3 +75,12 @@ The workflow runs whenever changes are pushed to the repository or when a pull r
 
 A successful green-build screenshot will be included below after the GitHub Actions workflow has completed successfully.
 
+### GitHub Actions Workflow
+
+The CI/CD workflow is located at:
+
+`.github/workflows/part1-ci.yml`
+
+The workflow automatically runs when changes are pushed to the repository or when a pull request is created.
+
+It validates that all required Part 1 files are present and that the repository has the correct structure.
