@@ -59,3 +59,19 @@ To set up the database:
 
 The database contains tables for users, events, categories, enrolments, results, routes, and weather information.
 
+## CI/CD
+
+GitHub Actions is used to automatically validate the required Part 1 repository structure.
+
+The workflow checks that:
+
+- The `docs` folder exists.
+- The ERD PDF exists.
+- The API Endpoint Plan PDF exists.
+- The SQL Database Script exists.
+- The README file exists.
+
+The workflow runs whenever changes are pushed to the repository or when a pull request is created.
+
+A successful green-build screenshot will be included below after the GitHub Actions workflow has completed successfully.
+
