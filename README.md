@@ -43,3 +43,19 @@ RaceDay-Repository/
 ├── .github/
 │   └── workflows/
 └── README.md
+
+## Database Setup
+
+The RaceDay database is implemented using Microsoft SQL Server.
+
+To set up the database:
+
+1. Open SQL Server Management Studio (SSMS).
+2. Connect to the SQL Server instance.
+3. Open `docs/RaceDay_Database.sql`.
+4. Select the RaceDay database.
+5. Execute the SQL script.
+6. Verify that the required tables and sample data have been created.
+
+The database contains tables for users, events, categories, enrolments, results, routes, and weather information.
+
