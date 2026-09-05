@@ -83,7 +83,7 @@ A successful green-build screenshot will be included below after the GitHub Acti
 
 The video demonstration explains the RaceDay Part 1 planning and database work, including the ERD, API Endpoint Plan, SQL Server database, repository structure, and GitHub Actions workflow.
 
-YouTube Link: **To be added**
+YouTube Link: https://youtu.be/6EAyep8Kswc
 ### GitHub Actions Workflow
 
 The CI/CD workflow is located at:
